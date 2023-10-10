@@ -1,4 +1,4 @@
-Jiawei Qi  -- Iteration 1,2:
+Iteration 1,2:
 
 Home page:
 
@@ -39,7 +39,7 @@ Review Page:
 Reviews for our Application and their impressive experiences for trails.
 
 
-Jiawei Qi -- Iteration 3:
+Iteration 3:
 
  - finished profile part with customize Google Login button.
  ![image](https://media.github.khoury.northeastern.edu/user/10747/files/9b46a4d2-305b-441e-8936-e72ec890a7ac)
@@ -53,7 +53,7 @@ Jiawei Qi -- Iteration 3:
  - add css effect on the profile page
 
 
-Sifan Wei -- Iteration 3:
+Iteration 3:
 
  - Completed trail page.
  - Added "add review" "edit review" "delete review" functions.
@@ -62,7 +62,7 @@ Sifan Wei -- Iteration 3:
 
 
 
-Zhiyuan Chen -- Iteration 3:
+Iteration 3:
  
 
 WishList Page:
@@ -77,7 +77,7 @@ WishList Page:
 ![Star or unstar trail on Trails Page to edit Wishlist](https://media.github.khoury.northeastern.edu/user/11086/files/9f354b2b-450d-41e9-95a3-a81ab9f54212)
 
 
-Yuhan Zhu -- Iteration 3:
+Iteration 3:
 - Create the all trail display page
 - Create trail page with detailed information and review function
 ![WechatIMG1603](https://media.github.khoury.northeastern.edu/user/8221/files/5eca264b-75cb-41a8-af8e-9ba423d7a2c1)

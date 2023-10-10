@@ -1,13 +1,11 @@
 TrailHunter - Backend
 
-
-Sifan Wei:
   - task: Build backend skeleton.
   - progress: Finished some of the functionality, but still have some to implement based on what the application needs as we progress and modify some of the functionality. 
 
 <img width="243" alt="ss_SifanWei_Iteration1" src="https://media.github.khoury.northeastern.edu/user/8221/files/ccf58f80-f941-4bb0-855f-79c58e7018df">
 
-Sifan Wei -- Iteration 2:
+Iteration 2:
   - task: Developed most api and functions and debuged.
   - progress: Finished the functionality needed for this project for the backend.
   - including but not limited to:
@@ -15,7 +13,7 @@ Sifan Wei -- Iteration 2:
   <img width="1149" alt="ss_SifanWei_Iteration2_3" src="https://media.github.khoury.northeastern.edu/user/8221/files/082fb467-005c-4c37-a538-515670af0bb0">
   <img width="1149" alt="ss_SifanWei_Iteration2_4" src="https://media.github.khoury.northeastern.edu/user/8221/files/3a863b23-216f-4bd5-a82f-669e2cf524d6">
 
-  Yuhan Zhu -- Iteration 2:
+Iteration 2:
   - Develop route to get all trails, trail controller to get trails
   - Complete reviewDAO and review functions -- create, update and delete
    
@@ -27,7 +25,7 @@ Sifan Wei -- Iteration 2:
 ![5](https://media.github.khoury.northeastern.edu/user/8221/files/61a387f8-985b-4a21-a26c-ee6eefa450b6)
 
 
-Zhiyuan Chen - Iteration 2
+Iteration 2
 
 - Debug backend controller and routing 
 - Implement wishlist and complete controller and DAO
@@ -36,12 +34,12 @@ Zhiyuan Chen - Iteration 2
 ![3](https://media.github.khoury.northeastern.edu/user/11086/files/9450f056-4af7-4c4e-bcfc-84ef69cd012e)
 
 
-Yuhan Zhu - iteration 3
+iteration 3
 - Add getTrailById in trail controllter, which serves the review function
 - Add getStates and the Search the trail by state, which updated both in API and DAO
 
 
-Sifan Wei - Iteration 3:
+Iteration 3:
 - Debuged filterByState and debuged review api and dao.
 
 
