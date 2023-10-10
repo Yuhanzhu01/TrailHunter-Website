@@ -1,0 +1,30 @@
+img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: -1;
+}
+.card {
+  /* Add shadows to create the "card" effect */
+  margin: 150px auto;
+  
+}
+
+.card p{
+  color:whitesmoke;
+}
+
+.card h3{
+  color:whitesmoke;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}

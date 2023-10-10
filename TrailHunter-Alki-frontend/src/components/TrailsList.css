@@ -1,0 +1,41 @@
+.main-container{
+    margin-top: 100px;
+}
+
+.trailRow {
+    margin-top: 15px;
+}
+
+.card {
+    margin-top: 15px ;
+    margin-bottom: -10px;
+}
+
+.trailsListCard {
+    width: 18rem;
+}
+
+div.poster {
+    margin:10px;
+}
+
+.smallPoster {
+    user-select: none;
+}
+
+.star {
+    width: 16em;
+    height: 2em;
+    filter: drop-shadow(2px 4px 6px black);
+    top: -3px;
+    left: 410px;
+    position: absolute; /* to put icon on the poster*/
+}
+
+.starFill {
+    fill: yellow;
+}
+
+.startEmpty {
+    fill: white;
+}

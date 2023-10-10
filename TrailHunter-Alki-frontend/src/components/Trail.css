@@ -1,0 +1,21 @@
+div.reviewsText {
+    width: 100%
+}
+
+div.poster {
+    margin: 10px;
+}
+
+.trailContainer {
+    margin-top: 100px;
+}
+
+p.review {
+    white-space: pre-line;
+    color: black;
+}
+
+.bigPicture{
+    float: right;
+    position: relative;
+}
